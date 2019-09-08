@@ -26,7 +26,5 @@ public class CyclicBarrierDemo {
                 }
             },String.valueOf(i)).start();
         }
-
-
     }
 }
