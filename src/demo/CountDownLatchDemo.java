@@ -7,6 +7,7 @@ import static demo.CountryEnum.forEach_CountryEnum;
 /**
  * @author LM
  * @create 2019-09-08 11:52
+ * CountDownLatch 例子
  */
 public class CountDownLatchDemo {
     public static void main(String[] args) throws InterruptedException {
